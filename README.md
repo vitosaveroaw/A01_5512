@@ -12,5 +12,6 @@ python src/boxplot.py
 ```
 
 ## Expected Output
-After you run boxplot.py, the plot will be saved to figs/boxplot.png. <br>
+After you run boxplot.py, the plot will be saved to figs/boxplot.png.
+
 ![boxplot of MedHouseVal](figs/boxplot.png)
